@@ -16,7 +16,12 @@ O jogo em questão é um clone do jogo Asteroids. Este é um jogo de arcade com 
 
 
 ## Gameplay
-
+    1.O jogo possui uma missão muito simples: Navegar uma nave espacial em meio a asteriodes de 3 tamanhos, atirar mísseis nestes asterois e destrui-los completamente. 
+    2.Cada tiro num asteroíde possui uma pontuação diferente. Um tiro num asteroide grande soma 20 pontos ao score, no asteroide mdio e pequeno, somam-se 100 pontos , nas patrulhas, somam-se 1000 pontos.
+    3.Inicialmente o jogador possui 3 vidas, ou seja, pode ser atingido por um dos asteroides 3 vez antes de perde o jogo e obter seu numero final de scores. Ao alcançar a marca de 50mil pontos, o jogador ganha uma vida extra que  somada às que ele ja possui.
+    4. A condição para "game over" é ser atingido o numero de vezes igual às vidas que possui. 
+    5. O Jogo não posui avanço de fases, o cenario permanece inalterado por todo o jogo. A emoço principal do jogo  obter o maior numero de score. Pode ser jogado por várias pesoas e formar um ranking de scores. O jogo não possui a opço de pausa, o que torna a quebra de recoredes mais dificil. O jogo principal possui um recorde oficial de 41.338.740 pontos. O jogador ficou jogando por mais de 58 horas initeruptamente.
+    
 
 ## Personagens
 
