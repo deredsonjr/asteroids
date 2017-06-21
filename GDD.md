@@ -39,7 +39,8 @@ O jogo em questão é um clone do jogo Asteroids. Este é um jogo de arcade com 
    1. O jogo é mostrado em 2D, sendo o universo ao fundo e a nave vista de cima bem como os asteroides e as patrulhas. O jogo apresenta um efeito circular nas bordas, ou seja, quando a nave atravessa uma das bordas ela reaparece na borda paralela na mesma em direção que sumiu.
    
 ## Universo do Jogo
-    1. O jogo se passa no espaço sideral. 
+    1. O jogo se passa no espaço sideral. O jogo, tanto original, quanto este clone, não possui fases gradativas que alteram o cenário. A emoção principal do jogo é alcançar o maior score possível. O que torna o jogo mais difícil é o fato dele não ter a opção de pausar. Uma vez iniciado, o jogador precisa manter o mesmo jogo para alcaçar o recorde anterior. 
+    2. No ambiente do jogo é possivel ouvir os sons dos propulsores da nave, dos disparos dos mísseis e da explosão dos asteriodes.
     
 ## Inimigos
 
